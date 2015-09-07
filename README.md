@@ -1,2 +1,2 @@
 # google-homepage
-<a href="newtoporganic.com">google-homepage</a>
+<a href="http://www.newtoporganic.com">google-homepage</a>
